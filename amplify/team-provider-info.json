@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjstailwind-dev-105313-authRole",
+      "UnauthRoleArn": "arn:aws:iam::986905547633:role/amplify-nextjstailwind-dev-105313-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::986905547633:role/amplify-nextjstailwind-dev-105313-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextjstailwind-dev-105313-deployment",
+      "UnauthRoleName": "amplify-nextjstailwind-dev-105313-unauthRole",
+      "StackName": "amplify-nextjstailwind-dev-105313",
+      "StackId": "arn:aws:cloudformation:us-east-1:986905547633:stack/amplify-nextjstailwind-dev-105313/330c5a90-fc46-11eb-a9df-0e4a688d3275",
+      "AmplifyAppId": "d3jxsajh2g3km0"
+    }
+  },
+  "mydev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjstailwind-mydev-113104-authRole",
+      "UnauthRoleArn": "arn:aws:iam::986905547633:role/amplify-nextjstailwind-mydev-113104-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::986905547633:role/amplify-nextjstailwind-mydev-113104-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextjstailwind-mydev-113104-deployment",
+      "UnauthRoleName": "amplify-nextjstailwind-mydev-113104-unauthRole",
+      "StackName": "amplify-nextjstailwind-mydev-113104",
+      "StackId": "arn:aws:cloudformation:us-east-1:986905547633:stack/amplify-nextjstailwind-mydev-113104/7ac7e700-fc4b-11eb-ba37-1277bf9feb05",
+      "AmplifyAppId": "d3jxsajh2g3km0"
+    }
+  }
+}
