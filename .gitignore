@@ -32,8 +32,8 @@ yarn-error.log*
 
 # vercel
 .vercel
-*.lock
 .DS_Store
+*.lock
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
